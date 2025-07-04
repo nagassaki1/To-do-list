@@ -110,3 +110,11 @@ button.delete:hover {
   from { opacity: 1; }
   to { opacity: 0; }
 }
+.edit-input {
+  font-size: 16px;
+  padding: 5px;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  width: 100%;
+  margin-top: 5px;
+}
